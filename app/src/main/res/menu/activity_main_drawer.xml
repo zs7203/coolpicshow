@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_weimei"
+            android:title="@string/cat_weimei"/>
+        <item
+            android:id="@+id/nav_qingxin"
+            android:title="@string/cat_qingxin"/>
+        <item
+            android:id="@+id/nav_sheying"
+            android:title="@string/cat_sheying"/>
+        <item
+            android:id="@+id/nav_gaoxiao"
+            android:title="@string/cat_gaoxiao"/>
+        <item
+            android:id="@+id/nav_mingxing"
+            android:title="@string/cat_mingxing"/>
+        <item
+            android:id="@+id/nav_meinv"
+            android:title="@string/cat_meinv"/>
+        <item
+            android:id="@+id/nav_keai"
+            android:title="@string/cat_keai"/>
+    </group>
+
+</menu>
